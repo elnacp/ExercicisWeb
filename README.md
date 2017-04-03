@@ -1,0 +1,2 @@
+# Exercicis
+Exercicis Projectes Web
