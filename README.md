@@ -1,2 +1,2 @@
-# Exercicis
-Exercicis Projectes Web
+# Exercice from Web Development in University
+
